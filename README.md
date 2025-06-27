@@ -11,7 +11,7 @@ The main goal of this project was to explore key performance indicators in hospi
 
 - 🔍 Exploratory Data Analysis of hospital metrics such as patient admissions, discharge rates, and cost per stay.
 - 📉 LOS & Cost Analysis to understand the main factors influencing patient stay duration and expenses.
-- 🧮 DAX Measures** used to create dynamic KPIs, such as:
+- 🧮 DAX Measures used to create dynamic KPIs, such as:
   - Average Length of Stay
   - Average Cost per Stay
   - Efficiency Score by Hospital
